@@ -1,11 +1,5 @@
 [
     {
-        "title": "Client's Personal Website",
-        "image": "./media/VanPersonalWebsite.png",
-        "link": "https://vanphanmade.github.io/",
-        "description": "This is a personal website built for a game developer to showcase their projects and accomplishments."
-    },
-    {
         "title": "Angela's Experience",
         "image": "./media/angelaExperience.png",
         "link": "https://www.changelingvr.com/experiences/AngelaExperience/angelaExperience.html",
@@ -16,5 +10,41 @@
         "image": "./media/textBasedRPG.png",
         "link": "https://people.rit.edu/ec3594/235/Projects/project3/",
         "description": "A web app for people who are interested in chatting with themselves. They can take on different roles and send messages in different settings, like library, meeting room, etc. More features like creating your own roles, places, and customizing profile pictures for each role are under construction."
+    },
+    {
+        "title": "Dog Lover",
+        "image": "./media/dogLover.png",
+        "link": "https://people.rit.edu/ec3594/330/projects/project-1/app.html",
+        "description": "A project developed using dog API. You can search for a breed by entering its name in the search bar or click a breed from the breed list. You can also choose the number of results you'd like to see (between 1-50). Save your favorites by pressing the heart button on the top right of an image and see what you've saved in Favorites."
+    },
+    {
+        "title": "Client's Personal Website",
+        "image": "./media/VanPersonalWebsite.png",
+        "link": "https://vanphanmade.github.io/",
+        "description": "This is a personal website built for a game developer to showcase their projects and accomplishments."
+    },
+    {
+        "title": "Nick Cage Clicker",
+        "image": "./media/clicker.png",
+        "link": "https://people.rit.edu/ec3594/330/projects/project2/app.html",
+        "description": "A clicker game developed using HTML canvas and JavaScript, and styled using CSS and Bulma. You can go to the home page to see instructions for the game."
+    },
+    {
+        "title": "Coffee Finder",
+        "image": "./media/coffeeFinder.png",
+        "link": "https://people.rit.edu/ec3594/330/rit-coffee-finder/",
+        "description": "An application that helps you explore different places to get coffee on RIT campus. You can choose different views depended on your preference."
+    },
+    {
+        "title": "Canvas Drawing",
+        "image": "./media/canvasDrawing.png",
+        "link": "https://people.rit.edu/ec3594/330/hw/cs-canvas-3.html",
+        "description": "An application that will draw infinitely using random rectangels, circles with random colors for the borders and the filled at random positions on a HTML canvas."
+    },
+    {
+        "title": "Lorenz Attractor",
+        "image": "./media/ctxDrawing.png",
+        "link": "https://people.rit.edu/ec3594/330/hw/LA-start.html",
+        "description": "An application that draws Lorenz Attractor, several different initial chaotic conditions evolve in phase space in a way that never repeats, so all chaos is unpredictable."
     }
 ]
