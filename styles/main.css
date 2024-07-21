@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body {
@@ -22,11 +23,11 @@ a {
 
 nav {
     width: 100%;
-    background-color: rgb(230, 168, 168);
-    background-color: rgb(245, 226, 203);
-    /* background-color: rgb(201, 187, 160); */
-    box-shadow: 0px 2.5px 2px rgb(161, 136, 113);
-    /* box-shadow: 0px 2.5px 2px rgb(99, 76, 52); */
+    /* background-color: rgb(230, 168, 168);
+    background-color: rgb(245, 226, 203); */
+    background-color: rgb(215, 210, 202); 
+    /* box-shadow: 0px 2.5px 2px rgb(161, 136, 113); */
+    box-shadow: 0px 2.5px 2px rgb(200, 194, 185);
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -43,7 +44,7 @@ h1 {
 
 h1:hover {
     cursor: pointer;
-    color: rgb(85, 73, 51);
+    color: rgb(95, 87, 80);
 }
 
 nav ul {
@@ -64,14 +65,13 @@ nav li {
 nav li:hover {
     cursor: pointer;
     /* color: rgb(7, 8, 48); */
-    background-color: rgba(85, 73, 51, 0.6);
-    background-color: rgb(161, 136, 113);
+    background-color: rgba(185, 167, 151, 0.7);
     /* background-color: cornsilk; */
 }
 
 main {
     padding: 3vw 5vw;
-    background-color: rgb(216, 194, 169);
+    /* background-color: rgb(216, 194, 169); */
 }
 
 main div {
@@ -86,7 +86,7 @@ h2 {
 }
 
 hr {
-    border: 5px solid rgb(116, 103, 81);
+    border: 5px solid rgba(116, 103, 81, 0.5);
     border-radius: 5px;
     width: 100%;
     margin-bottom: 20px;
@@ -101,7 +101,7 @@ hr {
     width: 100%;
     max-width: 220px;
     border-radius: 20px;
-    border: 3px solid rgb(99, 76, 52);
+    /* border: 3px solid rgb(99, 76, 52); */
 }
 
 .about p {
@@ -147,13 +147,14 @@ hr {
 .project {
     /* border: solid 1px rgb(94, 57, 11); */
     background-color: linen;
-    background-color: cornsilk;
+    background-color: rgb(249, 249, 249);
     border-radius: 10px;
     /* width: 500px; */
     margin-bottom: 1vw;
     padding: 1rem;
     font-size: 1.2rem;
-    box-shadow: 0 0 3px rgb(94, 57, 11);
+    box-shadow: 0 0 9px rgba(94, 57, 11, 0.5);
+    color: rgb(71, 73, 73);
 }
 
 .project img {
@@ -221,6 +222,15 @@ footer {
     /* background-color: tomato; */
 }
 
+#contact p {
+    color: rgb(241, 238, 232);
+    display: inline;
+}
+
+#contact i{
+    margin-right: 5px;
+}
+    
 /* smaller screen size */
 @media only screen and (max-width: 800px) {
     body {
