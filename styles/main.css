@@ -234,7 +234,7 @@ footer {
 /* smaller screen size */
 @media only screen and (max-width: 800px) {
     body {
-        background-color: lightgoldenrodyellow;
+        /* background-color: lightgoldenrodyellow; */
     }
 
     .projects {
@@ -250,7 +250,7 @@ footer {
 /* mobile  */
 @media only screen and (max-width: 600px) {
     body {
-        background-color: rgb(94, 126, 138);
+        /* background-color: rgb(94, 126, 138); */
     }
 
     nav ul {
