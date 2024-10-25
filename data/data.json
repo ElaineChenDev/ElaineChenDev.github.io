@@ -22,17 +22,5 @@
         "image": "./media/VanPersonalWebsite.png",
         "link": "https://vanphanmade.github.io/",
         "description": "This is a personal website built for a game developer to showcase their projects and accomplishments."
-    },
-    {
-        "title": "Nick Cage Clicker",
-        "image": "./media/clicker.png",
-        "link": "https://people.rit.edu/ec3594/330/projects/project2/app.html",
-        "description": "A clicker game developed using HTML canvas and JavaScript, and styled using CSS and Bulma. You can go to the home page to see instructions for the game."
-    },
-    {
-        "title": "Coffee Finder",
-        "image": "./media/coffeeFinder.png",
-        "link": "https://people.rit.edu/ec3594/330/rit-coffee-finder/",
-        "description": "An application that helps you explore different places to get coffee on RIT campus. You can choose different views depended on your preference."
     }
 ]
