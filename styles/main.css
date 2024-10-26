@@ -30,7 +30,8 @@ a {
 }
 
 nav {
-    width: 70%;
+    width: 95vw;
+    max-width: 1450px;
     margin: auto;
     /* background-color: rgb(230, 168, 168);
     background-color: rgb(245, 226, 203); */
