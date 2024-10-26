@@ -70,8 +70,13 @@ nav li:hover {
 }
 
 main {
-    padding: 3vw 5vw;
-    /* background-color: rgb(216, 194, 169); */
+    /* background-color: rgb(217, 177, 185); */
+    /* padding: 3vw 10vw; */
+    /* margin: 3vw 10vw; */
+    width: 90vw;
+    max-width: 1400px;
+    padding-top: 3vw;
+    margin: auto
 }
 
 main div {
@@ -185,7 +190,7 @@ hr {
 
 footer {
     color: #fff;
-    padding: 20px;
+    /* padding: 20px; */
     font-size: 16px;
     background-color: rgb(40, 33, 22);
     /* display: flex;
@@ -196,9 +201,12 @@ footer {
 
 .footerContent {
     /* background-color: rgb(101, 98, 92); */
+    width: 90vw;
+    max-width: 1400px;
+    padding: 2vw 0 2vw 0;
+    margin: auto;
     display: flex;
     flex-direction: column;
-    margin-bottom: 10px;
     justify-content: center;
     justify-content: space-evenly;
     font-size: 18px;
